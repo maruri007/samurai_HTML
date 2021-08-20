@@ -1,0 +1,56 @@
+@charset "utf-8"
+
+body{
+	color: #333;
+    font-size: 16px/1.8 sans-serif;
+}
+
+img{
+    width: 100%;
+    vertical-align: bottom;
+}
+
+header{
+    text-align: center;
+}
+   
+h1{
+    background-color: #eee;
+    font-size: 0.7em;
+    text-align: center;
+    padding: 2px;
+    margin-bottom: 20px;
+}
+
+h2{
+    font-weight: bold;
+    font-size: 1.2em;
+
+}
+
+#logo{
+    width: 30%;
+    margin: auto;
+}
+
+#info{
+    border-top: solid 1px #eee;
+    border-bottom: solid 1px #eee;
+    text-align: center;
+    margin: 20px 0;}
+
+ .info{
+    background-color: #52150A;
+    padding: 10px;
+    color: #fff;}
+
+.fsb01{font-size: 1.5em;}
+
+footer{
+    background-color: #000;
+    color: #FD14A9;
+    margin: 10px 0 0;
+    padding: 10px;
+    font-size: small;
+    text-align: center;
+}
